@@ -1,0 +1,63 @@
+{define: G7 base-fret 1 frets 3 2 0 0 0 1}
+{define: F base-fret 1 frets 1 3 3 2 1 1}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{title: The First Noel}
+{subtitle: Traditional}
+
+{start_of_verse}
+The [C]first [G]Noel the [F]angels did [C]say
+Was to [F]certain poor [C]shepherds in [G7]fields as they [C]lay.
+In [C]fields where [G]they lay [F]keeping their [C]sheep,
+On a [F]cold winter's [C]night that [G7]was so [C]deep.
+{end_of_verse}
+
+{start_of_verse: Refrain}
+No[C]el, No[G]el, No[F]el, No[C]el,
+[F]Born is the [C]King of [G7]Isra[C]el.
+{end_of_verse}
+
+{start_of_verse}
+They [C]looked [G]up and [F]saw a [C]star
+Shining [F]in the [C]east, be[G7]yond them [C]far.
+And [C]to the [G]earth it [F]gave great [C]light,
+And [F]so it con[C]tinued both [G7]day and [C]night.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+And [C]by the [G]light of [F]that same [C]star,
+Three [F]Wise Men [C]came from [G7]country [C]far.
+To [C]seek for a [G]King was [F]their in[C]tent,
+And to [F]follow the [C]star wher[G7]ever it [C]went.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+This [C]star drew [G]nigh to [F]the north[C]west,
+Over [F]Bethle[C]hem it [G7]took its [C]rest,
+And [C]there it [G]did both [F]stop and [C]stay,
+Right [F]over the [C]place where [G7]Jesus [C]lay.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+Then [C]entered [G]in those [F]Wise Men [C]three,
+Full [F]reve[C]rently u[G7]pon the [C]knee,
+And [C]offered [G]there, in [F]His pre[C]sence,
+Their [F]gold and [C]myrrh and [G7]frankin[C]cense.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+Then [C]let us [G]all with [F]one a[C]ccord
+Sing [F]praises [C]to our [G7]heavenly [C]Lord
+That [C]hath made [G]heaven and [F]earth of [C]naught,
+And [F]with His [C]blood man[G7]kind hath [C]bought.
+{end_of_verse}
+
+{repeat: Refrain}

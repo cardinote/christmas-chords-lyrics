@@ -1,0 +1,145 @@
+{define: A base-fret 1 frets x 0 2 2 2 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{define: E7 base-fret 1 frets 0 2 0 1 0 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{title: The Twelve Days of Christmas}
+{subtitle: Traditional}
+
+{start_of_verse: Verse 1}
+On the [D]first day of Christmas
+my [A7]true love sent to [D]me:
+A [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+On the [D]second day of Christmas
+my [A7]true love sent to [D]me:
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+On the [D]third day of Christmas
+my [A7]true love sent to [D]me:
+[A]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 4}
+On the [D]forth day of Christmas
+my [A7]true love sent to [D]me:
+[A]Four calling birds,
+[A]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 5}
+On the [D]fifth day of Christmas
+my [A7]true love sent to [D]me:
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 6}
+On the [D]sixth day of Christmas
+my [A7]true love sent to [D]me:
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 7}
+On the [D]seventh day of Christmas
+my [A7]true love sent to [D]me:
+[A]Seven swans a-swimming,
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 8}
+On the [D]eighth day of Christmas
+my [A7]true love sent to [D]me:
+[A]Eight maids a-milking,
+[A]Seven swans a-swimming,
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 9}
+On the [D]ninth day of Christmas
+my [A7]true love sent to [D]me:
+[A]Nine ladies dancing,
+[A]Eight maids a-milking,
+[A]Seven swans a-swimming,
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 10}
+On the [D]tenth day of Christmas
+my [A7]true love sent to [D]me:
+[A]Ten lords a-leaping,
+[A]Nine ladies dancing,
+[A]Eight maids a-milking,
+[A]Seven swans a-swimming,
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 11}
+On the [D]eleventh day of Christmas
+my [A7]true love sent to [D]me:
+[A]Eleven pipers piping,
+[A]Ten lords a-leaping,
+[A]Nine ladies dancing,
+[A]Eight maids a-milking,
+[A]Seven swans a-swimming,
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}
+
+{start_of_verse: Verse 12}
+On the [D]twelfth day of Christmas
+my [A7]true love sent to [D]me:
+[A]Twelve drummers drumming,
+[A]Eleven pipers piping,
+[A]Ten lords a-leaping,
+[A]Nine ladies dancing,
+[A]Eight maids a-milking,
+[A]Seven swans a-swimming,
+[A]Six geese a-laying,
+[D]Five [E7]gold [A]rings,
+[D]Four calling birds,
+[G]Three French hens,
+[A]Two turtle doves,
+And a [D]partridge [A7]in a pear [D]tree.
+{end_of_verse}

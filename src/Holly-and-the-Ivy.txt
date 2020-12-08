@@ -1,0 +1,56 @@
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{title: The Holly and the Ivy}
+{subtitle: Traditional}
+
+{start_of_verse}
+The [G]holly and [C]the [G]ivy,
+When [G]they are both [C]full [D]grown,
+Of [Em]all the trees [G]that are [C]in the wood,
+The [G]holly bears [D]the [G]crown.
+{end_of_verse}
+
+{start_of_verse: Refrain}
+The [G]rising of [C]the [G]sun
+And the [G]running of [C]the [D]deer,
+The [Em]playing of [G]the [C]merry organ,
+Sweet [G]singing in [D]the [G]choir.
+{end_of_verse}
+
+{start_of_verse}
+The [G]holly bears [C]a [G]blossom,
+As [G]white as the [C]lily [D]flower,
+And [Em]Mary bore [G]sweet [C]Jesus Christ,
+To [G]be our sweet [D]Sa[G]viour.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+The [G]holly bears [C]a [G]berry,
+As [G]red as a[C]ny [D]blood,
+And [Em]Mary bore [G]sweet [C]Jesus Christ
+For to [G]do us sin[D]ners [G]good.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+The [G]holly bears [C]a [G]prickle,
+As [G]sharp as a[C]ny [D]thorn,
+And [Em]Mary bore [G]sweet [C]Jesus Christ
+On [G]Christmas Day [D]in the [G]morn.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse}
+The [G]holly bears [C]a [G]bark,
+As [G]bitter as [C]any [D]gall,
+And [Em]Mary bore [G]sweet [C]Jesus Christ
+For [G]to redeem [D]us [G]all.
+{end_of_verse}
+
+{repeat: Refrain}

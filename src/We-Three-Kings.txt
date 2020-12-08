@@ -1,0 +1,59 @@
+{define: Am base-fret 1 frets x 0 2 2 1 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: B7 base-fret 1 frets x 2 1 2 0 2}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{title: We Three Kings}
+{subtitle: John Henry Hopkins Jr.}
+
+{start_of_verse: Verse 1}
+[Em]We three kings of [B7]Orient [Em]are,
+[Em]Bearing gifts we [B7]traverse a[Em]far.
+[G]Field and [D]fountain, [Em]moor and [G]mountain,
+[Am]Following [B7]yonder [Em]star.
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[D7]O  [G]star of wonder, [C]star of [G]night,
+[G]Star with royal [C]beauty [G]bright,
+[Em]Westward [D]leading, [C]still pro[D]ceeding,
+[G]Guide us to thy [C]perfect [G]Light.
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[Em]Born a King on [B7]Bethlehem's [Em]plain,
+[Em]Gold I bring to [B7]crown Him [Em]again,
+[G]King for[D]ever, [Em]ceasing [G]never
+[Am]Over us [B7]all to [Em]reign.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 3}
+[Em]Frankincense to [B7]offer have [Em]I.
+[Em]Incense owns a [B7]Deity [Em]nigh.
+[G]Prayer and [D]praising [Em]all men [G]raising,
+[Am]Worship Him, [B7]God on [Em]high.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 4}
+[Em]Myrrh is mine, its [B7]bitter per[Em]fume
+[Em]Breaths a life of [B7]gathering [Em]gloom.
+[G]Sorrowing, [D]sighing, [Em]bleeding [G]dying,
+[Am]Sealed in the [B7]stone-cold [Em]tomb.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse : Verse 5}
+[Em]Glorious now be[B7]hold Him [Em]arise,
+[Em]King and [B7]God and [Em]Sacrifice.
+[G]Alle[D]luia, [Em]alle[G]luia!
+[Am]Sounds through the [B7]earth and [Em]skies.
+{end_of_verse}
+
+{repeat: Chorus}

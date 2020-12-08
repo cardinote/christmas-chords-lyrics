@@ -1,0 +1,41 @@
+{define: A base-fret 1 frets x 0 2 2 2 0}
+{define: Bm base-fret 2 frets x 1 3 3 2 1}
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{define: E7 base-fret 1 frets 0 2 0 1 0 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{title: Deck the Halls}
+{subtitle: Traditional, Transl. Thomas Oliphant}
+
+{start_of_verse}
+[D]Deck the halls with [Bm]boughs of holly,
+[A7]Fa la la la [D]la, la [A]la la [D]la.
+[D]'Tis the season [Bm]to be jolly,
+[A7]Fa la la la [D]la, la [A]la la [D]la.
+[A7]Don we now our [D]gay apparel,
+[D]Fa la la, [Bm]la la la, [E7]la la [A]la.
+[D]Troll the ancient [Bm]Christmas carol,
+[G]Fa la la la [D]la, la [A]la la [D]la.
+{end_of_verse}
+
+{start_of_verse}
+[D]See the blazing [Bm]yule before us,
+[A7]Fa la la la [D]la, la [A]la la [D]la.
+[D]Strike the harp and [Bm]join the chorus.
+[A7]Fa la la la [D]la, la [A]la la [D]la.
+[A7]Follow me in [D]merry measure,
+[D]Fa la la, [Bm]la la la, [E7]la la [A]la.
+[D]While I tell of [Bm]Christmas treasure,
+[G]Fa la la la [D]la, la [A]la la [D]la.
+{end_of_verse}
+
+{start_of_verse}
+[D]Fast away the [Bm]old year passes,
+[A7]Fa la la la [D]la, la [A]la la [D]la.
+[D]Hail the new, ye [Bm]lads and lasses!
+[A7]Fa la la la [D]la, la [A]la la [D]la.
+[A7]Sing we joyous [D]all together,
+[D]Fa la la, [Bm]la la la, [E7]la la [A]la.
+[D]Heedless of the [Bm]wind and weather,
+[G]Fa la la la [D]la, la [A]la la [D]la.
+{end_of_verse}

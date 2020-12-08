@@ -1,0 +1,49 @@
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: B7 base-fret 1 frets x 2 1 2 0 2}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: A base-fret 1 frets x 0 2 2 2 0}
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{title: Angels We Have Heard on High}
+{subtitle: Traditional, Transl. James Chadwick}
+
+{start_of_verse: Verse 1}
+[D]Angels we have [A]heard on [D]high
+[D]Sweetly singing [A]o'er the [D]plains
+[D]And the mountains [A]in [D]reply
+[D]Echoing their [A]joyous [D]strains
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[D]Gl[B7]o -[Em]   [A]  [D]  [G]  [A7]   [A]ria
+[D]in [A]ex[D]cel[G]sis [D]De[A]o!
+[D]Gl[B7]o -[Em]   [A]  [D]  [G]  [A7]   [A]ria
+[D]in [A]ex[D]cel[G]sis [D]De [A]- [D]o!
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[D]Shepherds, why this [A]jubi[D]lee?
+[D]Why your joyous [A]strains pro[D]long?
+[D]What the gladsome [A]tidings [D]be?
+[D]Which inspire your [A]heavenly [D]songs?
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 3}
+[D]Come to Bethle[A]hem and [D]see
+[D]Him whose birth the [A]angels [D]sing;
+[D]Come, adore on [A]bended [D]knee,
+[D]Christ the Lord, the [A]newborn [D]King.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 4}
+[D]See Him in a [A]manger [D]laid,
+[D]Jesus, Lord of [A]heaven and [D]earth;
+[D]Mary, Joseph, [A]lend your [D]aid,
+[D]With us sing our [A]Saviour's [D]birth.
+{end_of_verse}
+
+{repeat: Chorus}

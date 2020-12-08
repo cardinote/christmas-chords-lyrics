@@ -1,0 +1,45 @@
+{define: A base-fret 1 frets x 0 2 2 2 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{title: O Come, All Ye Faithful (Adeste Fideles)}
+{subtitle: John Francis Wade}
+
+{start_of_verse: Verse 1}
+O [G]come, all ye [D]faithful, [G]joyful [C]and tri[D]umphant!
+O [Em]come ye, O [D]come ye to Beth[A]le[D]hem;
+[G]Come and be[C]hold  [G]him, [D]born the [Em]King of [D]Angels:
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+O [G]come, let us adore him,
+O [G]come, let [C]us  a[D]dore him,
+O [C]come, let us a[D]dore [Em]him,
+[G]Christ [D]the [G]Lord!
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+[G]God of [D]God, [G]Light [C]of [D]Light,
+[Em]Lo! he ab[D]hors not the Vir[A]gin's [D]womb;
+[G]Very [C]God, [G]be-[D]gotten, [Em]not [D]created:
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 3}
+[G]Sing, choirs of [D]angels, [G]sing in [C]exul[D]tation,
+[Em]Sing, all ye [D]citizens of Hea[A]ven [D]above!
+[G]Glory [C]to [G]God, [D]glory [Em]in the [D]highest:
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 4}
+[G]Yea, Lord, we [D]greet thee, [G]born this [C]happy [D]morning;
+[Em]Jesus, to [D]thee be all glo[A]ry [D]given!
+[G]Word of the [C]Fat[G]her, [D]now in [Em]flesh a[D]ppearing!
+{end_of_verse}
+
+{repeat: Chorus}
+

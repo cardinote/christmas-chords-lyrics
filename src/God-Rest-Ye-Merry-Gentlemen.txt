@@ -1,0 +1,72 @@
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: B7 base-fret 1 frets x 2 1 2 0 2}
+{define: Am7 base-fret 1 frets x 0 2 0 1 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: E base-fret 1 frets 0 2 2 1 0 0}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{title: God Rest Ye Merry Gentlemen}
+{subtitle: Traditional}
+
+{start_of_verse: Verse 1}
+God [Em]rest you merry, gentle[C]men,
+Let [C]nothing [Am7]you dis[B7]may,
+For [Em]Jesus Christ our Sa[C]viour
+Was [C]born [Am7]upon this [B7]day,
+To [C]save us [G]all from [D]Satan's[Em] power
+When [Em]we were gone as[D]tray;
+{end_of_verse}
+
+{start_of_verse: Refrain}
+O [G]ti[C]dings of [B7]comfort and [Em]joy,
+[Em]Comfort and [D]joy,
+O [G]ti[D]dings of [B7]comfort and [Em]joy.
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+From [Em]God our heavenly Fa[C]ther
+A [C]blessed [Am7]angel [B7]came,
+And [Em]unto certain shep[C]herds,
+Brought [C]tidings [Am7]of the [B7]same;
+How [C]that in [G]Bethle[D]hem was [Em]born
+The [Em]Son of God by [D]name,
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse: Verse 3}
+The [Em]shepherds at those [C]tidings
+Re[C]joiced [Am7]much in [B7]mind,
+And [Em]left their flocks a-[C]feeding
+In [C]tempest, [Am7]storm and [B7]wind,
+And [C]went to [G]Bethle[D]hem straight[Em]way,
+This [Em]blessed Babe to [D]find.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse: Verse 4}
+But [Em]when to Bethlehem they [C]came,
+Where[C]at this [Am7]Infant [B7]lay,
+They [Em]found Him in a man[C]ger,
+Where [C]oxen [Am7]feed on [B7]hay;
+His [C]mother [G]Mary [D]knee[Em]ling,
+Un[Em]to the Lord did [D]pray.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse: Verse 5}
+Now [Em]to the Lord sing prai[C]ses,
+All [C]you with[Am7]in this [B7]place,
+And [Em]with true love and brother[C]hood
+Each [C]other [Am7]now em[B7]brace;
+This [C]holy [G]tide of [D]Christ[Em]mas
+All [Em]other doth de[D]face.
+{end_of_verse}
+
+{start_of_verse}
+O [G]ti[C]dings of [B7]comfort and [Em]joy,
+[Em]Comfort and [D]joy,
+O [G]ti[D]dings of [B7]comfort and [E]joy.
+{end_of_verse}

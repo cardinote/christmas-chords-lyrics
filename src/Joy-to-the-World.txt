@@ -1,0 +1,41 @@
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{title: Joy to the World}
+{subtitle: Music by Lowell Mason, Words by Isaac Watts}
+
+{start_of_verse}
+[G]Joy to the world; the Lord [D7]is [G]come!
+Let [C]earth re[D7]ceive her [G]King!
+Let [G]every heart prepare Him room,
+And [G]Heaven and nature sing,
+And [D7]Heaven and nature sing,
+And [G]Heaven, and Heaven, and na[D7]ture [G]sing.
+{end_of_verse}
+
+{start_of_verse}
+[G]Joy to the earth, the Sa[D7]vior [G]reigns!
+Let [C]men their [D7]songs em[G]ploy;
+While [G]fields and floods, rocks, hills, and plains
+Re[G]peat the sounding joy,
+Re[D7]peat the sounding joy,
+Re[G]peat, repeat, the soun[D7]ding [G]joy.
+{end_of_verse}
+
+{start_of_verse}
+[G]No more let sins and sor[D7]rows [G]grow,
+Nor [C]thorns in[D7]fest the [G]ground;
+He [G]comes to make His blessings flow
+Far [G]as the curse is found,
+Far [D7]as the curse is found,
+Far [G]as, far as, the curse [D7]is [G]found.
+{end_of_verse}
+
+{start_of_verse}
+[G]He rules the world with truth [D7]and [G]grace,
+And [C]makes the [D7]nations [G]prove
+The [G]glories of His righteousness,
+And [G]wonders of His love,
+And [D7]wonders of His love,
+And [G]wonders, And wonders, of [D7]His [G]love.
+{end_of_verse}

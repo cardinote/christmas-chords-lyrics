@@ -1,0 +1,50 @@
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: B7 base-fret 1 frets x 2 1 2 0 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{title: We Wish You a Merry Christmas}
+{subtitle: Traditional}
+
+{start_of_verse}
+We [G]wish you a Merry [C]Christmas,
+We [A7]wish you a Merry [D7]Christmas,
+We [B7]wish you a Merry [Em]Christmas,
+And a [C]Happy [D7]New [G]Year!
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+Good [G]tidings we [D]bring
+To [Em]you and [A7]your k[D]in;
+We [G]wish you a Merry [D]Christmas,
+And a [C]Happy[D7] New[G] Year!
+{end_of_chorus}
+
+{start_of_verse}
+Now [G]bring us some figgy [C]pudding,
+Now [A7]bring us some figgy [D7]pudding,
+Now [B7]bring us some figgy [Em]pudding,
+And [C]bring some [D7]out [G]here!
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse}
+For [G]we all like figgy [C]pudding,
+We [A7]all like figgy [D7]pudding,
+We [B7]all like figgy [Em]pudding,
+So [C]bring some [D7]out [G]here!
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse}
+And we [G]won't go until we've [C]got some,
+We [A7]won't go until we've [D7]got some,
+We [B7]won't go until we've [Em]got some,
+So [C]bring some [D7]out [G]here!
+{end_of_verse}
+
+{repeat: Chorus}

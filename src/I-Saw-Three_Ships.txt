@@ -1,0 +1,68 @@
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{title: I Saw Three Ships}
+{subtitle: William Sandys}
+
+{start_of_verse}
+I [G]saw three [D]ships come [G]sailing [D]in
+On [G]Christmas Day, on [D]Christmas Day;
+I [Em]saw three [D]ships come [G]sailing [D]in
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
+
+{start_of_verse}
+And [G]what was [D]in those [G]ships all [D]three,
+On [G]Christmas Day, on [D]Christmas Day?
+And [Em]what was [D]in those [G]ships all [D]three,
+On [G]Christmas [Em]Day in the [D]mor[G]ning?
+{end_of_verse}
+
+{start_of_verse}
+The [G]Virgin [D]Mary and [G]Christ were [D]there,
+On [G]Christmas Day, on [D]Christmas Day;
+The [Em]Virgin [D]Mary and [G]Christ were [D]there,
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
+
+{start_of_verse}
+Pray, [G]wither [D]sailed those [G]ships all [D]three,
+On [G]Christmas Day, on [D]Christmas Day;
+Pray, [Em]wither [D]sailed those [G]ships all [D]three,
+On [G]Christmas [Em]Day in the [D]mor[G]ning?
+{end_of_verse}
+
+{start_of_verse}
+O [G]they sailed [D]into [G]Bethle[D]hem,
+On [G]Christmas Day, on [D]Christmas Day;
+O [Em]they sailed [D]into [G]Bethle[D]hem,
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
+
+{start_of_verse}
+And [G]all the [D]bells on [G]earth shall [D]ring,
+On [G]Christmas Day, on [D]Christmas Day;
+And [Em]all the [D]bells on [G]earth shall [D]ring,
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
+
+{start_of_verse}
+And [G]all the [D]Angels in [G]Heaven shall [D]sing,
+On [G]Christmas Day, on [D]Christmas Day;
+And [Em]all the [D]Angels in [G]Heaven shall [D]sing,
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
+
+{start_of_verse}
+And [G]all the [D]souls on [G]earth shall [D]sing,
+On [G]Christmas Day, on [D]Christmas Day;
+And [Em]all the [D]souls on [G]earth shall [D]sing,
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
+
+{start_of_verse}
+Then [G]let us [D]all re[G]joice a[D]gain,
+On [G]Christmas Day, on [D]Christmas Day;
+Then [Em]let us [D]all re[G]joice a[D]gain,
+On [G]Christmas [Em]Day in the [D]mor[G]ning.
+{end_of_verse}
