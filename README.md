@@ -13,7 +13,7 @@ To change the chords/lyrics and make your own PDFs, use any tool that can read C
 
 The instructions below are for the [Cardinote app](https://www.cardinote.com/app) which is free and available on MacOS/Windows:
 
-![Animation showing PDF creation steps](/images/cardinote_app_pdf_steps.png)
+![Animation showing PDF creation steps](/images/cardinote_app_pdf_steps.gif)
 
 Steps:
 
