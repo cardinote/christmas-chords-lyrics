@@ -1,0 +1,39 @@
+{define: G7 base-fret 1 frets 3 2 0 0 0 1}
+{define: F base-fret 1 frets 1 3 3 2 1 1}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{title: Up on the Housetop}
+{subtitle: Benjamin Hanby}
+
+{start_of_verse: Verse 1}
+[C]Up on the housetop reindeer pause
+[F]Out jumps [C]Good Old [G7]Santa Claus
+[C]Down through the chimney with lots of toys
+[F]For all the [C]little good [G7]girls and [C]boys
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[F]Ho, ho ho! [C]Who wouldn't go?
+[G7]Ho, ho ho! [C]Who wouldn't go?
+[C]Up on the housetop, [F]click, click, click
+[C]Down through the chimney with [G7]good Saint [C]Nick
+{end_of_chorus}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 2}
+[C]First comes the stocking of little Nell
+[F]Oh, dear [C]Santa [G7]fill it well
+[C]Give her a dolly that laughs and cries
+[F]One that will [C]open and [G7]shut its [C]eyes
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 3}
+[C]Next comes the stocking of little Will
+[F]Oh, just [C]see what a [G7]glorious fill
+[C]Here is a hammer and lots of tacks
+[F]A whistle and a [C]ball and a [G7]whip that [C]cracks
+{end_of_verse}
+
+{repeat: Chorus}

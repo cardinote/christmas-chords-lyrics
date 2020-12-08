@@ -1,0 +1,32 @@
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{title: Silent Night}
+{subtitle: Music by Franz Xaver Gruber, Lyrics by Joseph Mohr}
+
+{start_of_verse: Verse 1}
+[G]Silent night, holy night,
+[D7]All is calm, [G]all is bright,
+[C]Round yon Virgin [G]Mother and Child,
+[C]Holy infant, so [G]tender and mild,
+[D7]Sleep in heavenly [G]peace,
+[G]Sleep in [D7]heavenly [G]peace.
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[G]Silent night, holy night,
+[D7]Shepherds quake [G]at the sight.
+[C]Glories stream from [G]heaven afar,
+[C]Heavenly hosts sing [G]Alleluia!
+[D7]Christ the Saviour is [G]born,
+[G]Christ the [D7]Saviour is [G]born.
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+[G]Silent night, holy night,
+[D7]Son of God, [G]love's pure light,
+[C]Radiant beams from [G]Thy holy face,
+[C]With the dawn of re[G]deeming grace,
+[D7]Jesus, Lord, at Thy [G]birth,
+[G]Jesus, [D7]Lord, at Thy [G]birth.
+{end_of_verse}

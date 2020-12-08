@@ -1,0 +1,61 @@
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{title: Good King Wenceslas}
+{subtitle: John M. Neale, Thomas Helmore}
+
+{start_of_verse}
+[G]Good King [Em]Wences[C]las looked [D]out,
+[C]on the Feast of [G]Stephen,
+[G]When the [Em]snow lay [C]round a[D]bout,
+[C]deep and crisp and [G]even;
+[G]Brightly [Em]shone the [G]moon that [Em]night,
+[C]though the frost was [G]cruel,
+[G]When a [C]poor man [Em]came in [D]sight,
+[G]gathering winter [Em]fu [C]- [G]el.
+{end_of_verse}
+
+{start_of_verse}
+"[G]Hither, [Em]page, and [C]stand by [D]me,
+[C]if thou know'st it, [G]telling,
+[G]Yonder [Em]peasant, [C]who is [D]he?
+[C]Where and what his [G]dwelling?"
+[G]"Sire, he [Em]lives a [G]good league [Em]hence,
+[C]underneath the [G]mountain;
+[G]Right a[C]gainst the [Em]forest [D]fence,
+[G]by Saint Agnes' [Em]foun [C]- [G]tain."
+{end_of_verse}
+
+{start_of_verse}
+"[G]Bring me [Em]flesh, and [C]bring me [D]wine,
+[C]bring me pine logs [G]hither:
+[G]Thou and [Em]I will [C]see him [D]dine,
+[C]when we bear them [G]thither."
+[G]Page and [Em]monarch, [G]forth they [Em]went,
+[C]forth they went [G]together;
+[G]Through the [C]rude wind's [Em]wild la[D]ment
+[G]and the bitter [Em]wea [C]- [G]ther.
+{end_of_verse}
+
+{start_of_verse}
+"[G]Sire, the [Em]night is [C]darker [D]now,
+[C]and the wind blows [G]stronger;
+[G]Fails my [Em]heart, I [C]know not [D]how;
+[C]I can go no [G]longer."
+"[G]Mark my [Em]footsteps, [G]good my [Em]page.
+[C]Tread thou in them [G]boldly
+[G]Thou shalt [C]find the [Em]winter's [D]rage
+[G]freeze thy blood less [Em]co [C]- ld[G]ly."
+{end_of_verse}
+
+{start_of_verse}
+[G]In his [Em]master's [C]steps he [D]trod,
+[C]where the snow lay [G]dinted;
+[G]Heat was [Em]in the [C]very [D]sod
+[C]which the saint had [G]printed.
+[G]Therefore, [Em]Christian [G]men, be [Em]sure,
+[C]wealth or rank pos[G]sessing,
+[G]Ye who [C]now will [Em]bless the [D]poor,
+[G]shall yourselves find [Em]ble [C]- s[G]sing.
+{end_of_verse}

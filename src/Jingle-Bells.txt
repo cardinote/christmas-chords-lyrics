@@ -1,0 +1,54 @@
+{define: Am base-fret 1 frets x 0 2 2 1 0}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{title: Jingle Bells}
+{subtitle: James L. Pierpont}
+
+{start_of_verse: Verse 1}
+[G]Dashing through the snow
+In a [G]one-horse open [C]sleigh.
+[Am]O'er the fields we [D7]go
+[D7]Laughing all the [G]way.
+[G]Bells on bobtail ring
+[G]Making spirits [C]bright.
+What [Am]fun it is to [D]ride and sing
+[D7]A sleighing song [G]tonight!
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+[G]Jingle bells, jingle bells, jingle all the way.
+[C]Oh what fun it [G]is to ride
+In a [A7]one-horse open [D7]sleigh, hey!
+[G]Jingle bells, jingle bells, jingle all the way.
+[C]Oh what fun it [G]is to ride
+In a [D7]one-horse open [G]sleigh.
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+A [G]day or two ago,
+I [G]thought I'd take a [C]ride,
+And [Am]soon Miss Fanny [D7]Bright
+Was [D7]seated by my [G]side.
+The [G]horse was lean and lank;
+Mis[G]fortune seemed his [C]lot.
+He [Am]got into a [D]drifted bank
+And [D7]then we got up[G]sot.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 3}
+[G]Now the ground is white,
+[G]Go it while you're [C]young.
+[Am]Take the girls to[D7]night
+and [D7]sing this sleighing [G]song.
+[G]Get a bobtailed bay,
+Two [G]forty as his [C]speed.
+[Am]Hitch him to an [D]open sleigh
+And [D7]crack! you'll take the [G]lead, oh!
+{end_of_verse}
+
+{repeat: Chorus}

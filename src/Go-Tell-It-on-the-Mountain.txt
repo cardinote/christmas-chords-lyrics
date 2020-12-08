@@ -1,0 +1,41 @@
+{define: Bm base-fret 2 frets x 1 3 3 2 1}
+{define: Em9 base-fret 1 frets 0 2 0 0 0 2}
+{define: A base-fret 1 frets x 0 2 2 2 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{title: Go Tell It on the Mountain}
+{subtitle: Spiritual, Comp. John Wesley Work Jr.}
+
+{start_of_chorus: Chorus}
+[D] Go, tell it on the [Bm]mountain,
+[Em]Over the hills and [A]everywhere;
+[D] Go, tell it on the [Bm]mountain
+That [Em9]Jesus [A]Christ is [D]born.
+{end_of_chorus}
+
+{start_of_verse: Verse 1}
+While [D]shepherds kept their [Bm]watching
+O'er [A]silent flocks by [D]night,
+Be[D]hold, throughout the [Bm]heavens
+There [Em]shone a holy [A]light.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 2}
+The [D]shepherds feared and [Bm]trembled
+When [A]lo! Above the [D]earth
+Rang [D]out the angel [Bm]chorus
+That [Em]hailed our Savior‘s [A]birth.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse: Verse 3}
+Down [D]in a lowly [Bm]manger
+The [A]humble Christ was [D]born,
+And [D]God sent us sal[Bm]vation
+That [Em]blessed Christmas [A]morn.
+{end_of_verse}
+
+{repeat: Chorus}

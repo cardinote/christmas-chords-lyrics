@@ -1,0 +1,49 @@
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 1 3 3 2 1 1}
+{define: G7 base-fret 1 frets 3 2 0 0 0 1}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: Am base-fret 1 frets x 0 2 2 1 0}
+{title: Jolly Old Saint Nicholas}
+{subtitle: Words by Emily Huntington Miller, Music by James R. Murray}
+
+{start_of_verse}
+[C]Jolly old Saint [G7]Nicholas
+[Am]Lean your ear this [Em]way;
+[F]Don't you tell a [C]single soul
+[G7]What I'm going to say,
+{end_of_verse}
+
+{start_of_verse}
+[C]Christmas Eve is [G7]coming soon;
+[Am]Now you dear old [Em]man,
+[F]Whisper what you'll [C]bring to me;
+[G7]Tell me if you [C]can.
+{end_of_verse}
+
+{start_of_verse}
+[C]When the clock is [G7]striking twelve,
+[Am]When I'm fast a[Em]sleep,
+[F]Down the chimney [C]broad and black
+[G7]With your pack you'll creep;
+{end_of_verse}
+
+{start_of_verse}
+[C]All the stockings [G7]you will find
+[Am]Hanging in a [Em]row;
+[F]Mine will be the [C]shortest one;
+[G7]You'll be sure to [C]know.
+{end_of_verse}
+
+{start_of_verse}
+[C]Johnny wants a [G7]pair of skates;
+[Am]Susy wants a [Em]dolly
+[F]Nellie wants a [C]story book,
+[G7]She thinks dolls are folly
+{end_of_verse}
+
+{start_of_verse}
+[C]As for me, my [G7]little brain
+[Am]Isn't very [Em]bright;
+[F]Choose for me, dear [C]Santa Claus,
+[G7]What you think is [C]right.
+{end_of_verse}

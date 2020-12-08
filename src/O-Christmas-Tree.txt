@@ -1,0 +1,51 @@
+{define: Am base-fret 1 frets x 0 2 2 1 0}
+{define: Bm base-fret 2 frets x 1 3 3 2 1}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{title: O Christmas Tree}
+{subtitle: Melchior Franck, Ernst Anschütz}
+
+{start_of_verse}
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+Your [Am]branches [D7]green de[G]light us.
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+Your [Am]branches [D7]green de[G]light us.
+They're [Bm]green when [C]summer [D7]days are bright;
+They're [Am]green when [D7]winter [G]snow is white.
+O [G]Christmas Tree, [D7]O C[G]hristmas Tree,
+Your [Am]branches [D7]green de[G]light us!
+{end_of_verse}
+
+{start_of_verse}
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+You [Am]give us [D7]so much [G]pleasure!
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+You [Am]give us [D7]so much [G]pleasure!
+How [Bm]oft at [C]Christmas [D7]tide the sight,
+O [Am]green fir [D7]tree, gives [G]us delight!
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+You [Am]give us [D7]so much [G]pleasure!
+{end_of_verse}
+
+{start_of_verse}
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+For[Am]ever [D7]true your [G]colour.
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+For[Am]ever [D7]true your [G]colour.
+Your [Bm]boughs so [C]green in [D7]summertime
+Stay [Am]bravely [D7]green in [G]wintertime.
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+For[Am]ever [D7]true your [G]colour.
+{end_of_verse}
+
+{start_of_verse}
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+You [Am]fill my [D7]heart with [G]music.
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+You [Am]fill my [D7]heart with [G]music.
+Re[Bm]minding [C]me on [D7]Christmas Day
+To [Am]think of [D7]you and [G]then be gay.
+O [G]Christmas Tree, [D7]O  [G]Christmas Tree,
+You [Am]fill my [D7]heart with [G]music.
+{end_of_verse}

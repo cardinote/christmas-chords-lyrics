@@ -1,0 +1,56 @@
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{title: Auld Lang Syne}
+{subtitle: Robert Burns}
+
+{start_of_verse}
+Should [G]old acquaintance [D]be forgot,
+and [Em]never [G]brought to [C]mind?
+Should [G]old acquaintance [D]be forgot,
+and [Em]days of [C]auld lang [G]syne?
+{end_of_verse}
+
+{start_of_chorus: Chorus}
+For [G]auld lang [D]syne, my dear,
+for [G]auld lang [C]syne,
+we'll [G]take a cup of [D]kindness yet,
+for [Em]days of [C]auld lang [G]syne.
+{end_of_chorus}
+
+{start_of_verse}
+And [G]surely you'll buy [D]your pint cup!
+and [Em]surely [G]I'll buy [C]mine!
+And [G]we'll take a cup o' [D]kindness yet,
+for [Em]days of [C]auld lang [G]syne.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse}
+We [G]two have run [D]about the slopes,
+and [Em]picked the [G]daisies [C]fine;
+But we've [G]wandered many a [D]weary foot,
+since the [Em]days of [C]auld lang [G]syne.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse}
+We [G]two have paddled [D]in the stream,
+from [Em]morning [G]sun till [C]dine;
+But [G]seas between us [D]broad have roared
+since the [Em]days of [C]auld lang [G]syne.
+{end_of_verse}
+
+{repeat: Chorus}
+
+{start_of_verse}
+And [G]there's a hand my [D]trusty friend!
+And [Em]give me a [G]hand o' [C]thine!
+And [G]we'll take a right good[D]- will draught,
+for [Em]days of [C]auld lang [G]syne.
+{end_of_verse}
+
+{repeat: Chorus}

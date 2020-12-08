@@ -1,0 +1,61 @@
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: Bm base-fret 2 frets x 1 3 3 2 1}
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{title: Once in Royal David's City}
+{subtitle: Cecil Frances Alexander, Henry John Gauntlett}
+
+{start_of_verse: Verse 1}
+Once in [G]Royal [D7]David's [G]city,
+[Em]Stood a [Bm]lowly [D7]cattle [G]shed,
+Where a [G]mother [D7]laid her [G]baby
+[Em]In a [Bm]manger [D7]for His [G]bed:
+[C]Mary [G]was that [D7]mother [G]mild,
+[C]Jesus [G]Christ her [D7]little [G]child.
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+He came [G]down to [D7]earth from [G]heaven,
+[Em]Who is [Bm]God and [D7]Lord of [G]all,
+And His [G]shelter [D7]was a [G]stable,
+[Em]And His [Bm]cradle [D7]was a [G]stall;
+[C]With the [G]poor and [D7]meek and [G]lowly,
+[C]Lived on [G]earth our [D7]Saviour [G]holy.
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+And through [G]all His [D7]wondrous [G]childhood,
+[Em]He would [Bm]honour [D7]and [G]obey,
+Love and [G]watch the [D7]lowly [G]mother,
+[Em]In whose [Bm]gentle [D7]arms He [G]lay.
+[C]Christian [G]children [D7]all should [G]be,
+[C]Mild, [G]obedient, [D7]good as [G]He.
+{end_of_verse}
+
+{start_of_verse: Verse 4}
+For He [G]is our [D7]childhood's [G]pattern,
+[Em]Day by [Bm]day like [D7]us He [G]grew,
+He was [G]little, [D7]weak, and [G]helpless,
+[Em]Tears and [Bm]smiles like [D7]us He [G]knew,
+[C]And He [G]feeleth [D7]for our [G]sadness,
+[C]And He [G]shareth [D7]in our [G]gladness.
+{end_of_verse}
+
+{start_of_verse: Verse 5}
+And our [G]eyes at [D7]last shall [G]see Him,
+[Em]Through His [Bm]own re[D7]deeming [G]love;
+For that [G]child so [D7]dear and [G]gentle,
+[Em]Is our [Bm]Lord in [D7]heaven [G]above,
+[C]And He [G]leads His [D7]children [G]on,
+[C]To the [G]place where [D7]He is [G]gone.
+{end_of_verse}
+
+{start_of_verse: Verse 6}
+Not in [G]that poor [D7]lowly [G]stable,
+[Em]With the [Bm]oxen [D7]standing [G]by,
+We shall [G]see Him, [D7]but in [G]heaven,
+[Em]Set at [Bm]God's right [D7]hand on [G]high;
+[C]When like [G]stars His [D7]children [G]crowned,
+[C]All in [G]white shall [D7]be a[G]round.
+{end_of_verse}

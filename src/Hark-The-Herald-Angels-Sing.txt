@@ -1,0 +1,53 @@
+{define: G base-fret 1 frets 3 2 0 0 0 3}
+{define: C base-fret 1 frets x 3 2 0 1 0}
+{define: Am base-fret 1 frets x 0 2 2 1 0}
+{define: A7 base-fret 1 frets x 0 2 0 2 0}
+{define: D7 base-fret 1 frets x x 0 2 1 2}
+{define: E base-fret 1 frets 0 2 2 1 0 0}
+{define: D base-fret 1 frets x x 0 2 3 2}
+{define: Em base-fret 1 frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets x 1 3 3 2 1}
+{title: Hark! The Herald Angels Sing}
+{subtitle: George Whitefield, William H. Cummings}
+
+{start_of_verse: Verse 1}
+[G]Hark! The herald angels [D]sing,
+"[G]Glory [C]to the [G]new[D]born [G]King;
+[G]Peace on [D]earth and [Em]mercy [G]mild,
+[Bm]God and [D]sinners [A7]recon[D]ciled!"
+[G]Joyful all ye [D7]nations [G]rise,
+[G]Join the triumph [D7]of the [G]skies;
+[C]With the angelic host [E]pro[Am]claim,
+"[D]Christ is [G]born in Beth[D]le[G]hem!"
+{end_of_verse}
+
+{start_of_verse: Refrain}
+[C]Hark! The herald an[E]gels [Am]sing,
+"[D]Glory [G]to the new[D]born [G]King!"
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[G]Christ, by highest heaven a[D]dored,
+[G]Christ, the [C]ever[G]las[D]ting [G]Lord,
+[G]Late in [D]time be[Em]hold Him [G]come,
+[Bm]Offspring [D]of a [A7]Virgin's [D]womb,
+[G]Veiled in flesh the [D7]Godhead [G]see;
+[G]Hail the incarnate [D7]Dei[G]ty,
+[C]Pleased with us in flesh [E]to [Am]dwell,
+[D]Jesus, [G]our Em[D]manu[G]el.
+{end_of_verse}
+
+{repeat: Refrain}
+
+{start_of_verse: Verse 3}
+[G]Hail the Heaven-born Prince of [D]Peace!
+[G]Hail the [C]Son of [G]Righ[D]teous[G]ness!
+[G]Light and [D]life to [Em]all He [G]brings,
+[Bm]Risen with [D]healing [A7]in His [D]wings.
+[G]Mild He lays His [D7]glory [G]by,
+[G]Born that we no [D7]more may [G]die,
+[C]Born to raise us from [E]the [Am]earth,
+[D]Born to [G]give us [D]second [G]birth.
+{end_of_verse}
+
+{repeat: Refrain}
